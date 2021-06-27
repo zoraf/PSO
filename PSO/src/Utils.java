@@ -1,8 +1,7 @@
 import java.util.List;
 
 public class Utils {
+    public static double Y = 100;
 
-    public static double calculateStandardDeviation(List<Swarm> listOfSwarm){
-        return 0;
-    }
+
 }

@@ -2,11 +2,36 @@
   <library name="dev">
     <CLASSES>
       <root url="file://$USER_HOME$/Downloads/poi-5.0.0" />
+      <root url="jar://$USER_HOME$/Downloads/xmlbeans-5.0.0/lib/log4j-api-2.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xmlbeans-5.0.0/lib/log4j-core-2.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xmlbeans-5.0.0/lib/xmlbeans-5.0.0.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections4-4.4/commons-collections4-4.4-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections4-4.4/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-compress-1.20/commons-compress-1.20-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-compress-1.20/commons-compress-1.20.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="file://$USER_HOME$/Downloads/poi-5.0.0/docs/apidocs/dev" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-compress-1.20/commons-compress-1.20-javadoc.jar!/" />
     </JAVADOC>
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/Any/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/DateTime/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/MixedContent/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/OrderMatters/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/SchemaEnum/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/Validation/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/XQueryXPath/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-5.0.0/samples/XsdConfig/src" />
+      <root url="jar://$USER_HOME$/Downloads/xmlbeans-5.0.0/lib/xmlbeans-5.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections4-4.4/commons-collections4-4.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-compress-1.20/commons-compress-1.20-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-compress-1.20/commons-compress-1.20-test-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/poi-5.0.0" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/Downloads/poi-5.0.0" recursive="false" />
   </library>
 </component>
